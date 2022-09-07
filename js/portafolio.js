@@ -5,4 +5,3 @@ const varieble = active.addEventListener("click", () => {
   active.style.background = "#2196F3";
   document.getElementById("contenedor__botones__boton").style.color = "#ffff";
 });
-
